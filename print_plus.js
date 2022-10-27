@@ -10,6 +10,6 @@ let text = '😎';
 
 while (curLine <= totalLines) {
     console.log(text);
-    text += '😎'; // appending text as text = text + '+'.
+    text += '😎'; // appending text as text = text + '😎'.
     curLine++; // increment as curLine = curLine + 1.
 }
